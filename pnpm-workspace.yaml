@@ -1,0 +1,6 @@
+allowBuilds:
+  sharp: false
+  unrs-resolver: false
+minimumReleaseAgeExclude:
+  - '@iconify-icons/lucide@2.0.34'
+  - '@iconify-icons/solar@2.0.8'
